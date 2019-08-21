@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+
+}
+p {
+    text-align: center;
+}
+body {
+    background-color: yellowgreen;
+    font-size: 20pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+ul {
+    width: 25%;
+    margin: auto;
+}
+ol {
+    width: 25%;
+    margin: auto;
+}
